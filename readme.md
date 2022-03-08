@@ -1,4 +1,4 @@
-# This repo has 3 porject in it.
+# This repo has 3 project in it.
 
 1. infrastructure - contains basic terraform code to vpc resources with module.in order to use this code download/clone the infrastructure and setup aws configure command to setup your credential as default profile
 
